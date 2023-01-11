@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <p align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=Yuri-YuzuChaN&title_color=ffaabb&bg_color=373e47&text_color=a9fef7&icon_color=ffaabb&hide_border=true&show_icons=true&locale=cn'>
+    <img src='https://github-readme-stats-nu-black-87.vercel.app/api?username=Yuri-YuzuChaN&title_color=ffaabb&bg_color=373e47&text_color=a9fef7&icon_color=ffaabb&hide_border=true&show_icons=true&locale=cn'>
 </p>
 
 <!--
